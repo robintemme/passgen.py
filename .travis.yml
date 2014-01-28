@@ -1,4 +1,0 @@
-language: python
-python: "3.3"
-script: "echo 'Successful. Thanks.'"
-install: true

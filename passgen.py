@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # imports
 from subprocess import Popen, PIPE
 from random import choice
