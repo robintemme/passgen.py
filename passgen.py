@@ -30,7 +30,7 @@ while True:
             "to have a password generated. When you like", \
             "to use the password you saw, press ^C (ctrl-c)", \
             "and the password will be copied to your clipboard.", \
-            "Press ^D (ctrl-c) to exit without copying.", sep="\n")
+            "Press ^D (ctrl-d) to exit without copying.", sep="\n")
     try:
         last_pw = gen_pw()
         input("\n" + last_pw + "\n")
