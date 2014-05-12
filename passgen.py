@@ -41,5 +41,5 @@ while True:
             print("\nError copying to clipboard.")
             break
     except EOFError:
-        print("Exited without copying.")
+        print("^D\nExited without copying.")
         break
